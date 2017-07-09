@@ -6,9 +6,16 @@
   "repository": "https://github.com/JakRazzi/nodenom.git",
   "author": "Jak Buttarazzi <JakRazzi@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "nodenom": "./index.js"
+  },
   "devDependencies": {
     "eslint": "^4.2.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.7.0"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.8",
+    "yargs": "^8.0.2"
   }
 }
