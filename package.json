@@ -1,0 +1,9 @@
+{
+  "name": "NodeNom",
+  "version": "0.0.0",
+  "description": "Quickly remove node_modules from a project or recursively from a directory.",
+  "main": "index.js",
+  "repository": "https://github.com/JakRazzi/nodenom.git",
+  "author": "Jak Buttarazzi <JakRazzi@gmail.com>",
+  "license": "MIT"
+}
